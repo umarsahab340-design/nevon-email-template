@@ -1,0 +1,24 @@
+# Node
+node_modules/
+*.log
+
+# Playwright
+test-results/
+playwright-report/
+
+# Temp / scratch files
+*.ps1
+*.js
+*.json
+*.txt
+*.svg
+*.png
+desktop_preview.png
+mobile_preview.png
+figma_node.json
+figma_hierarchy.txt
+render_test.js
+
+# OS
+.DS_Store
+Thumbs.db
